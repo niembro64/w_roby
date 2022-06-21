@@ -1,14 +1,24 @@
 p {
-  padding: 10px;
-  margin: 10px;
-  color: blue;
-  background-color: red;
-  border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+    background-color: green;
+    border: 1px solid black;
 }
 
 div {
-  padding: 10px;
-  margin: 10px;
-  background-color: red;
-  border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#eric_and_roby {
+    width: 300px;
+    height: 300px;
 }
